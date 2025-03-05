@@ -9,12 +9,8 @@
       <div class="container">
         <div class="hero-text-box text-center position-relative">
           <h1 class="text-primary hero-title display-6 fw-extrabold">
-            One dashboard to manage all your businesses
-          </h1>
-          <h2 class="hero-sub-title h6 mb-6">
-            Production-ready & easy to use Admin Template<br class="d-none d-lg-block" />
-            for Reliability and Customizability.
-          </h2>
+           Sistem Informasi Akademik Kampus
+          </h1>          
         </div>
         <div id="heroDashboardAnimation" class="hero-animation-img">
           <a href="../vertical-menu-template/app-ecommerce-dashboard.html" target="_blank">
